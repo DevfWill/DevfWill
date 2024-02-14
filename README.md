@@ -3,7 +3,7 @@
 
 ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=DevfWill&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevfWill&hide_progress=true)
+[![William WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevfWill)](https://github.com/DevfWill/github-readme-stats)
 
 ### Tecnologias que uso no meu dia-a-dia e que estou me aperfeiçoando.
 <div style="display: inline_block"><br/>

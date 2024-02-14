@@ -1,6 +1,8 @@
 ### Olá, eu sou o William
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/willds_17)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://instagram.com/willds_17](https://www.linkedin.com/in/william-santos-a90b6393/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-santos-a90b6393/)
+
+
 
 ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=DevfWill&show_icons=true&theme=dark)
 
